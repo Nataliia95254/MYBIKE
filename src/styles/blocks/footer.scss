@@ -1,0 +1,17 @@
+.footer {
+  background-image: url(../images/footer/bg-footer-mobile.webp);
+
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  @include onTablet {
+    height: 480px;
+    background-image: url(../images/footer/bg-footer.webp);
+  }
+
+  @include onDesktop {
+    height: 555px;
+  }
+}
