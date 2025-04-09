@@ -7,7 +7,7 @@ A modern, responsive landing page for a fictional bike company called **MYBIKE**
 
 ## 🔗 Live Preview
 
-[View Live Site](https://your-live-demo-link.com)
+[View Live Site](https://nataliia95254.github.io/MYBIKE/)
 
 ---
 
